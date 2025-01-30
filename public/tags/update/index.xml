@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Update on Respuestas AI</title><link>http://localhost:1313/tags/update/</link><description>Recent content in Update on Respuestas AI</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 27 Jul 2022 11:27:38 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/update/index.xml" rel="self" type="application/rss+xml"/><item><title>Arberia Features</title><link>http://localhost:1313/arberia-features/</link><pubDate>Wed, 27 Jul 2022 11:27:38 +0200</pubDate><guid>http://localhost:1313/arberia-features/</guid><description>&lt;h3 id="intro">Intro&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>We&amp;rsquo;ll be using &lt;code>toml&lt;/code> format for all examples down below, I recommend using &lt;code>toml&lt;/code> as it is easier to read.&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You can find any &lt;a href="https://www.google.com/search?q=yml+to+toml">YML to TOML&lt;/a> converters if necessary.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="tabla-de-ejemplo">Tabla de ejemplo&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Nombre&lt;/th>
+ &lt;th>Edad&lt;/th>
+ &lt;th>Ciudad&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Juan&lt;/td>
+ &lt;td>25&lt;/td>
+ &lt;td>Jipijapa&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Palli&lt;/td>
+ &lt;td>30&lt;/td>
+ &lt;td>Jipijapa&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Trevor&lt;/td>
+ &lt;td>28&lt;/td>
+ &lt;td>Cuenca&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="assets-jscss">Assets (js/css)&lt;/h3>
+&lt;p>The following is enabled by default&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://gohugo.io/hugo-pipes/minification/">minification&lt;/a> - makes the assets size smallest as possible.&lt;/li>
+&lt;li>&lt;a href="https://gohugo.io/hugo-pipes/bundling/">bundling&lt;/a> - bundles all the styles in one single asset&lt;/li>
+&lt;li>&lt;a href="https://gohugo.io/hugo-pipes/fingerprint/">fingerprint/intergity&lt;/a> check.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="search-page">Search Page&lt;/h3>
+&lt;p>PaperMod uses &lt;a href="https://github.com/nextapps-de/flexsearch">flexsearch.js&lt;/a> for search functionality&lt;/p></description></item></channel></rss>

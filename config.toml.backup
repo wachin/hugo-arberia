@@ -1,0 +1,33 @@
+baseURL = "https://wachin.github.io/"
+languageCode = "en-us"
+title = "Your Site Title"
+theme = "arberia"
+lastmod = "2025-01-21"  # Replace with the current date or the last modified date of your site
+
+# Required by Arberia theme
+[params]
+  dateFormat = "January 2, 2006"  # Date format for posts
+  footerMenu = false              # Set to true if you want a footer menu
+  socialIcons = false             # Set to true if you want social icons
+  showReadingTime = true          # Show estimated reading time for posts
+  showWordCount = true            # Show word count for posts
+  showAuthor = true               # Show author name in posts
+  showDate = true                 # Show date in posts
+
+# Optional: Add a menu (if needed)
+[menu]
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.footer]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+# Optional: Add social links (if needed)
+[social]
+  twitter = "your_twitter_handle"
+  github = "your_github_username"
+  
+
